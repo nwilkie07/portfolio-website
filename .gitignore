@@ -30,3 +30,6 @@ npm-debug.log*
 
 # Testing
 coverage/
+
+# Cloudflare binaries (too large for git)
+node_modules/@cloudflare/*/bin/workerd
